@@ -1,3 +1,7 @@
-# Tetris-Game
+# Tetris Game
 
-The main branch contains the code for my Tetris Game exactly as presented in the video https://youtu.be/jcUctrLC-7M.
+Criação de um jogo - Tetris - com recurso a tutoriais na internet
+
+- Visual Studio 2022
+- C# (WPF)
+
