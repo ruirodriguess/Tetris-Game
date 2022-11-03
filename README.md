@@ -1,10 +1,3 @@
-# Tetris Game
-
-Criação de um jogo - Tetris - com recurso a tutoriais na internet
-
-- Visual Studio 2022
-- C# (WPF)
-
 # Tetris
 
 *Game Application*
@@ -13,7 +6,7 @@ Criação de um jogo - Tetris - com recurso a tutoriais na internet
 Status: Finished
 ```
 ## Description
-In this project I developed a game using HTML, CSS and JavaScript. It's a game where you can jump over obstacles and it ends when Mario collides with one of the obstacles. Very simple and fun.
+In this project I developed a game C# (WPF). The classic tetris game.
 
 ## Languages 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -22,11 +15,9 @@ In this project I developed a game using HTML, CSS and JavaScript. It's a game w
 
 ## Topics/Techniques
 
-:heavy_check_mark: Creating Mario character jump animation;
+:heavy_check_mark: Multiple figures;
 
-:heavy_check_mark: A big and small character type;
-
-:heavy_check_mark: Use of media on games;
+:heavy_check_mark: Representation game grid and blocks from animations and code;
 
 *IDE: Visual Studio 2022*
 
